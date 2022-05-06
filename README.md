@@ -1,9 +1,10 @@
-#sobre mim
+# Sobre mim
 -
 -   @luizgabriel2022
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 Eu estou intereçado em aprender
+- 🌱Meu email de contato e @luizgabriel2022
+- 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
